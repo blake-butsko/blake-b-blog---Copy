@@ -2,79 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/toc/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/ankle/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/baseline/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/bullet-proofing/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/business/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/extracurricular/business/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/business/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/extracurricular/business/business-ideas/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/exercise/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/extracurricular/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/knee-pain/knees-over-toes/excercises/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/extracurricular/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/extracurricular/health-fitness/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/health-fitness/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hips/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/hip-stability/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/hips/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/hips/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ideas/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/knee-pain/knees-over-toes/knee-ability-zero/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/knees/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/knee-pain/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/knees/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/knee-pain/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mobility/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/knee-pain/knees-over-toes/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rehab/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/knees-over-toes/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/side-projects/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/low-back/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/strength/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/shoulder/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/knee-pain/knees-over-toes/shoulders/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/health-fitness/bullet-proofing/knee-pain/knees-over-toes/standards/</loc>
+    <lastmod>2026-04-02T02:57:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-03-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url>
 </urlset>

@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Blake Blog'
 theme = 'hyde'
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+    hardWraps = true
