@@ -1,0 +1,24 @@
+{{ $section := .section }}
+{{ $page := .page }}
+<li class="sidebar-tree__item">
+  {{ $subs := $section.Sections }}
+  {{ $leaves := $section.RegularPages }}
+  {{ $hasChildren := or $subs $leaves }}
+  {{ if $hasChildren }}
+  <details class="sidebar-tree__details" {{ if or (eq $page.RelPermalink $section.RelPermalink) ($section.IsAncestor $page) }}open{{ end }}>
+    <summary class="sidebar-tree__summary">
+      <a href="{{ $section.RelPermalink }}">{{ $section.Title }}</a>
+    </summary>
+    <ul class="sidebar-tree__nested">
+      {{ range $subs }}
+        {{ partial "sidebar-section-tree.html" (dict "section" . "page" $page) }}
+      {{ end }}
+      {{ range $leaves }}
+      <li class="sidebar-tree__leaf"><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </details>
+  {{ else }}
+  <a href="{{ $section.RelPermalink }}">{{ $section.Title }}</a>
+  {{ end }}
+</li>

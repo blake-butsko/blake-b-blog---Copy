@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extracurricular on Blake Blog</title>
+    <link>http://localhost:1313/categories/extracurricular/</link>
+    <description>Recent content in Extracurricular on Blake Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/extracurricular/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business Ideas</title>
+      <link>http://localhost:1313/extracurricular/business/business-ideas/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/extracurricular/business/business-ideas/</guid>
+      <description>&lt;p&gt;Brainstormed ideas and short descriptions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hips — Bullet Proofing</title>
+      <link>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/hips/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/hips/</guid>
+      <description>&lt;p&gt;**&lt;strong&gt;Need to do the PT tests each week and monitor changes (then monthly and so on)&#xA;Fix pain as it arises and work on stability when not in pain (progressive overload very very slowly and safely - volume of exercises not so much weight)&lt;/strong&gt;&#xA;[[#^90ca6f|Hip Tests]]&#xA;[[#Journal|Journal]]&lt;/p&gt;&#xA;&lt;p&gt;⭐️Swimming + standing desk&#xA;⭐️Maybe the spruhts&#xA;Laying hip pull down thing then glute bridge&#xA;Hip airplanes&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Issues&lt;/strong&gt;&#xA;Pirifornis, hip flexors + weak glute leading to anterior tilt and performs pushing on sciatic nerve causing pain&#xA;Something in shoulder pushing on nerve causing impingement - then on that gets relieved from the neck stretch&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Knees — Bullet Proofing</title>
+      <link>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/knees/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/knees/</guid>
+      <description>&lt;p&gt;Notes on knee strength, mobility, and precautions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

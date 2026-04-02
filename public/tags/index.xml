@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blake Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Blake Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/tags/business/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exercise</title>
+      <link>http://localhost:1313/tags/exercise/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/exercise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hips</title>
+      <link>http://localhost:1313/tags/hips/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>http://localhost:1313/tags/ideas/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Knees</title>
+      <link>http://localhost:1313/tags/knees/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/knees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobility</title>
+      <link>http://localhost:1313/tags/mobility/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mobility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rehab</title>
+      <link>http://localhost:1313/tags/rehab/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rehab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Side-Projects</title>
+      <link>http://localhost:1313/tags/side-projects/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/side-projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strength</title>
+      <link>http://localhost:1313/tags/strength/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/strength/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knees on Blake Blog</title>
+    <link>http://localhost:1313/tags/knees/</link>
+    <description>Recent content in Knees on Blake Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Mar 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/knees/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knees — Bullet Proofing</title>
+      <link>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/knees/</link>
+      <pubDate>Sun, 29 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/extracurricular/health-fitness/bullet-proofing/knees/</guid>
+      <description>&lt;p&gt;Notes on knee strength, mobility, and precautions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

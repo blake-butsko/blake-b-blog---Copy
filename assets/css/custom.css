@@ -1,0 +1,58 @@
+/*
+ * Site overrides: collapsible section tree in the Hyde sidebar.
+ */
+
+.sidebar-tree-wrap {
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.sidebar-tree {
+  padding-left: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.sidebar-tree__nested {
+  padding-left: 0.65rem;
+  margin: 0.35rem 0 0.4rem;
+  list-style: none;
+  border-left: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.sidebar-tree__item {
+  margin: 0.2rem 0;
+}
+
+.sidebar-tree__details {
+  margin: 0;
+}
+
+.sidebar-tree__details > summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.15rem 0;
+}
+
+.sidebar-tree__details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.sidebar-tree__summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.35rem;
+  font-size: 0.7em;
+  opacity: 0.75;
+  transform: rotate(0deg);
+  transition: transform 0.12s ease;
+}
+
+.sidebar-tree__details[open] > .sidebar-tree__summary::before {
+  transform: rotate(90deg);
+}
+
+.sidebar-tree__leaf a {
+  display: inline-block;
+  padding: 0.12rem 0;
+}
