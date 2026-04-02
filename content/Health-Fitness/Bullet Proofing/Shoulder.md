@@ -1,6 +1,6 @@
 +++
 title = "Shoulder"
-date = 2026-04-02T02:57:17.555537Z
+date = 2026-04-02T03:30:20.657043Z
 draft = false
 categories = ['health-fitness', 'bullet-proofing']
 slug = "Shoulder"

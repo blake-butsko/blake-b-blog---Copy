@@ -1,6 +1,6 @@
 +++
 title = "Excercises"
-date = 2026-04-02T02:57:17.560223Z
+date = 2026-04-02T03:30:20.672724Z
 draft = false
 categories = ['health-fitness', 'bullet-proofing', 'knee-pain', 'knees-over-toes']
 slug = "Excercises"
